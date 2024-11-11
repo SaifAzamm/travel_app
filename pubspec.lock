@@ -9,14 +9,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.11.0"
-  badges:
-    dependency: "direct main"
-    description:
-      name: badges
-      sha256: a7b6bbd60dce418df0db3058b53f9d083c22cdb5132a052145dc267494df0b84
-      url: "https://pub.dev"
-    source: hosted
-    version: "3.1.2"
   boolean_selector:
     dependency: transitive
     description:
@@ -89,30 +81,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.0.8"
-  dartz:
-    dependency: "direct main"
-    description:
-      name: dartz
-      sha256: e6acf34ad2e31b1eb00948692468c30ab48ac8250e0f0df661e29f12dd252168
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.10.1"
-  dio:
-    dependency: "direct main"
-    description:
-      name: dio
-      sha256: "5598aa796bbf4699afd5c67c0f5f6e2ed542afc956884b9cd58c306966efc260"
-      url: "https://pub.dev"
-    source: hosted
-    version: "5.7.0"
-  dio_web_adapter:
-    dependency: transitive
-    description:
-      name: dio_web_adapter
-      sha256: "33259a9276d6cea88774a0000cfae0d861003497755969c92faa223108620dc8"
-      url: "https://pub.dev"
-    source: hosted
-    version: "2.0.0"
   fake_async:
     dependency: transitive
     description:
@@ -187,14 +155,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "4.6.6"
-  get_storage:
-    dependency: "direct main"
-    description:
-      name: get_storage
-      sha256: "39db1fffe779d0c22b3a744376e86febe4ade43bf65e06eab5af707dc84185a2"
-      url: "https://pub.dev"
-    source: hosted
-    version: "2.1.1"
   http:
     dependency: transitive
     description:
@@ -243,14 +203,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "4.0.0"
-  logger:
-    dependency: "direct main"
-    description:
-      name: logger
-      sha256: "697d067c60c20999686a0add96cf6aba723b3aa1f83ecf806a8097231529ec32"
-      url: "https://pub.dev"
-    source: hosted
-    version: "2.4.0"
   matcher:
     dependency: transitive
     description:

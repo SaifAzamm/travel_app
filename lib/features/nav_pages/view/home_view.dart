@@ -23,7 +23,7 @@ class HomeView extends StatelessWidget {
     return AnnotatedRegion<SystemUiOverlayStyle>(
       value: const SystemUiOverlayStyle(
         statusBarIconBrightness: Brightness.dark,
-        statusBarColor: Colors.white,
+        statusBarColor: Colors.transparent,
       ),
       child: Scaffold(
         key: controller.scaffoldKey,
